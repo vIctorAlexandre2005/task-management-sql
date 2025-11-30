@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Tarefas – Scripts SQL
+# TaskManagement – Scripts SQL
 
 Este repositório contém todos os scripts SQL desenvolvidos para o projeto de banco de dados do sistema de gerenciamento de tarefas.  
 O objetivo é demonstrar o uso de comandos DDL e DML, garantindo coerência com o Modelo Lógico revisado e as Formas Normais aplicadas (1FN, 2FN e 3FN).
