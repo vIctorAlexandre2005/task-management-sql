@@ -47,7 +47,7 @@ Antes de rodar comandos, certifique-se de selecionar o schema onde quer criar as
 USE nome_do_seu_banco;
 ````
 
-*(substitua pelo nome do seu banco, ex.: `multi_tenant` ou `task_manager`)*
+*(substitua pelo nome do seu banco.)*
 
 ---
 
